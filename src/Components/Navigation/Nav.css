@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,700&display=swap');
+.navbar {
+  font-family: 'Lato', sans-serif;
+  font-size: 1.2rem;
+  overflow: hidden;
+  background-color: #222;
+  position: fixed;
+  text-align: center;
+  top: 0;
+  width: 100%;
+  height: 70px;
+  margin: 0;
+}
+
+.navbar ul {
+  list-style-type: none;
+  font-style: none;
+  margin: 0;
+}
+
+.navbar li {
+  display: inline-block;
+}
+
+.navbar a {
+  text-decoration: none;
+  text-transform: uppercase;
+  color: #fff;
+  line-height: 70px;
+  margin: 0;
+}
+
+.navbar a:hover {
+  color: #39B54A;
+}
+
+.home-link {
+  margin-right: 50px;
+}
+
+.work-link {
+  margin-right: 100px;
+}
+
+.contact-link {
+  margin-left: 100px;
+}
+
+.something-link {
+  margin-left: 50px;
+}

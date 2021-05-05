@@ -1,0 +1,26 @@
+.Intro {
+    text-align: center;
+    align-items: center;
+}
+
+.Intro p {
+    margin: 0 auto;
+    max-width: 60%;
+    font-size: 1.4rem;
+    margin-top: 1.4rem;
+}
+
+.Intro img {
+    min-width: 500px;
+    width: 45%;
+}
+
+.Intro a {
+    color: #39B54A;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.Intro a:hover {
+    color: #257430;
+}
